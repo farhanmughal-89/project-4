@@ -1,0 +1,1 @@
+alert("This Website for Tablet.");
